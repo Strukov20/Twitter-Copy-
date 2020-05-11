@@ -1,5 +1,5 @@
 import React from 'react';
-import {ListGroup, ListGroupItem } from 'reactstrap';
+import {ListGroup} from 'reactstrap';
 import '../post-list/post-list.css';
 
 import PostListItem from '../post-list-item';

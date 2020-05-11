@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import PostList from '../post-list';
+
 import '../post-add-form/post-add-form.css'
 
 export default class PostAddForm extends Component {
