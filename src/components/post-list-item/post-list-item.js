@@ -29,7 +29,8 @@ export default class PostListItem extends Component{
                 onClick={onToggleImportant}>
                     <i className="fa fa-star"></i>
                 </button>
-                <button type="button"
+                <button 
+                type="button"
                 className="btn-trash btn-sm"
                 onClick={onDelete}>
                     <i className="fa fa-trash-o"></i>
